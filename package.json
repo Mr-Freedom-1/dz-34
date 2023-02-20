@@ -1,0 +1,24 @@
+{
+  "name": "lesson-33",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Freedom-1/dz-34.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Mr-Freedom-1/dz-34/issues"
+  },
+  "homepage": "https://github.com/Mr-Freedom-1/dz-34#readme",
+  "description": ""
+}
